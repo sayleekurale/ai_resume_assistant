@@ -1,0 +1,30 @@
+John Smith
+Software Developer
+Email: john.smith@email.com
+Phone: (555) 123-4567
+
+SUMMARY
+Experienced software developer with 5 years of experience in web development, 
+specializing in JavaScript, React, and Node.js applications.
+
+EXPERIENCE
+Senior Developer - Tech Corp (2020-2025)
+• Developed and maintained web applications using React and Node.js
+• Collaborated with cross-functional teams using Agile methodology
+• Implemented REST APIs and integrated with third-party services
+• Optimized application performance resulting in 40% faster load times
+
+Junior Developer - StartupXYZ (2018-2020)  
+• Built responsive web applications using HTML, CSS, and JavaScript
+• Worked with SQL databases and implemented data visualization features
+• Participated in code reviews and testing procedures
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology (2014-2018)
+
+SKILLS
+• Programming: JavaScript, Python, Java, HTML, CSS
+• Frameworks: React, Node.js, Express, Django
+• Databases: MySQL, PostgreSQL, MongoDB
+• Tools: Git, Docker, AWS, Agile, Scrum
